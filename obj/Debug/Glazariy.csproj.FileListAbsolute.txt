@@ -1,0 +1,100 @@
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csprojAssemblyReference.cache
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Add.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Dictionaries.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.DictionaryComposition.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.DictionarySelection.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Learn.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Main.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Properties.Resources.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Search.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Training.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.TrainingStart.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Word.resources
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.GenerateResource.cache
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.CoreCompileInputs.cache
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.exe.config
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.exe
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.pdb
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.exe
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.pdb
+C:\Users\xiaom\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Result.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.exe.config
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.exe
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\bin\Debug\Glazariy.pdb
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csprojAssemblyReference.cache
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Add.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Dictionaries.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.DictionaryComposition.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.DictionarySelection.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Learn.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Main.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Properties.Resources.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Result.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Search.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Training.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.TrainingStart.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.Word.resources
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.GenerateResource.cache
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.CoreCompileInputs.cache
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.exe
+C:\Users\Евгеша\source\repos\Glazariy\Glazariy\obj\Debug\Glazariy.pdb
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe.config
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.pdb
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csprojAssemblyReference.cache
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Add.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Dictionaries.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionaryComposition.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionarySelection.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Learn.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Main.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Properties.Resources.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Result.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Search.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Training.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.TrainingStart.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Word.resources
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.GenerateResource.cache
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.CoreCompileInputs.cache
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.exe
+C:\Users\xiaom\Downloads\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.pdb
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe.config
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.pdb
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csprojAssemblyReference.cache
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Add.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Dictionaries.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionaryComposition.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionarySelection.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Learn.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Main.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Properties.Resources.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Result.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Search.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Training.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.TrainingStart.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Word.resources
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.GenerateResource.cache
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.CoreCompileInputs.cache
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.exe
+D:\дз\Практика с Сафиным\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.pdb
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe.config
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.exe
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\bin\Debug\Glazariy.pdb
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csprojAssemblyReference.cache
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Add.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Dictionaries.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionaryComposition.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.DictionarySelection.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Learn.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Main.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Properties.Resources.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Result.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Search.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Training.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.TrainingStart.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.Word.resources
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.GenerateResource.cache
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.csproj.CoreCompileInputs.cache
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.exe
+F:\Практика\Glazariy-2\Glazariy\Glazariy\Glazariy\obj\Debug\Glazariy.pdb
